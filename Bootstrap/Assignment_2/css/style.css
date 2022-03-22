@@ -27,3 +27,22 @@ address{
     margin:0px;
     color:#0f0f0f;
 }
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+#getExciting{
+    display: none;
+}
+video::-webkit-media-controls {
+    display:none !important;
+  }
