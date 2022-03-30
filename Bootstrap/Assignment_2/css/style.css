@@ -35,9 +35,6 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
-.tooltip-inner {
-    white-space:pre-wrap;
-}
 #getExciting{
     display: none;
 }
